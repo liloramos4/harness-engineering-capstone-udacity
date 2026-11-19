@@ -14,6 +14,9 @@
 > in code and is proven by a test. Where judgement is required, the model is constrained by schema and the
 > harness keeps a veto.
 
+> **📐 Engineering annex:** full-size diagrams, data contracts (`classDiagram`) and the seven ADRs live in
+> **[ARCHITECTURE.md](ARCHITECTURE.md)**. This README is the executive dossier; that file is the wiring.
+
 This repository is the **evidence pack**: code, run artifacts, test transcripts in this README, and the
 reflection brief that defends each architectural decision with numbers from actual runs.
 
