@@ -1,0 +1,22 @@
+==============================================================================
+FINAL CAPSTONE AUDIT
+==============================================================================
+
+Generated: 2026-11-19T07:38:57
+System 1 run: 20261117_115722
+System 1 claim: claim_01_kitchen_fire
+System 1 outcome: escalated
+System 1 turns: 2
+System 1 tokens: 6,376 input / 487 output
+System 1 cost: $0.0088
+System 1 duration: 4.8 s
+System 1 stop_reason: tool_use -> end_turn
+
+Questions missing: none
+Placeholder markers: none
+Missing required evidence: none
+Obsolete claims: none
+
+FINAL STATUS
+------------------------------------------------------------------------------
+PASS
